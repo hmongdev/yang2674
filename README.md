@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Technologies
 
-![image](https://user-images.githubusercontent.com/94493230/185995298-969e1611-715e-48f7-bcac-57d3239ef3ef.png)
+<a href="https://user-images.githubusercontent.com/94493230/185995298-969e1611-715e-48f7-bcac-57d3239ef3ef.png">
