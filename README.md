@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Technologies
+
+<img src="![image](https://user-images.githubusercontent.com/94493230/185995164-45a8d608-9416-427d-abc9-7ccb24822270.png)
+">
