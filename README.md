@@ -12,7 +12,7 @@
 
 ## Description
 
-Tesing
+Howdy folks! I just graduated from Prime Digital Academy and am very excited to pursue my first software job. I'm looking forward to learning AS MUCH AS possible in my first 30-60-90 days, wearing different hats, and growing my skills/experiences as a full-stack developer.
 
 ## Screenshots
 
