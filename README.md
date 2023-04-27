@@ -12,7 +12,7 @@
 
 ## Description
 
-Howdy folks! I just graduated from Prime Digital Academy and am very excited to pursue my first software job. I'm looking forward to learning AS MUCH AS possible in my first 30-60-90 days, wearing different hats, and growing my skills/experiences as a full-stack developer.
+I a full-stack bootcamp graduate and am excited to pursue my first software job. I love building beautiful, intuitive frontend designs, and growing my skills/experiences as a full-stack developer. In my free time, I'm teaching myself how to code, working out at the gym, and growing my YouTube channel.
 
 ## Screenshots
 
